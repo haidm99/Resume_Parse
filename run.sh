@@ -1,0 +1,1 @@
+python get_text.py --input_path ./dataset/u_cv_1682559002.png --output_path ./results/results.json
